@@ -18,11 +18,17 @@
 ## Deliverable 3
 ### T-Tests on Suspension Coils
 ![t_test_!.png](https://github.com/Smayorga97/MechaCar_Statistical_Analysis/blob/main/Resources/t_test_!.png)
+
 T-test for lot 1: there is no statistical difference
+
 ![t_test_2.png](https://github.com/Smayorga97/MechaCar_Statistical_Analysis/blob/main/Resources/t_test_2.png)
+
 T-test for lot 2: there is no statistical difference
+
 ![t_test_3.png](https://github.com/Smayorga97/MechaCar_Statistical_Analysis/blob/main/Resources/t_test_3.png)
+
 T-test for lot 3: there is a statistical difference
+
 ## Deliverable 4
 * What metric or metrics are you going to test?
 I would tests the resale value, average annual cost of ownership and MPG
